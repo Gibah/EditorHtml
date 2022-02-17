@@ -1,0 +1,16 @@
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache

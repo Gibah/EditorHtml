@@ -1,0 +1,5 @@
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\publish\EditorHtml.exe
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\publish\EditorHtml.dll
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\publish\EditorHtml.deps.json
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\publish\EditorHtml.runtimeconfig.json
+C:\Users\g.da.silva.franca\Downloads\EditorHtml\bin\Debug\net5.0\publish\EditorHtml.pdb
